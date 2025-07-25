@@ -5,3 +5,4 @@ week1 tasks:
 • Work on how to use useEffect, props, and context.
 • Create login and register pages.
 • Understand Git and its commands.
+hello
